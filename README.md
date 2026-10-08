@@ -9,7 +9,7 @@ The NBAA-BACE 2026 loop for the 65-inch booth display: 2 min 20 s, seamless, sil
 | `4K-master/` | **The file for the TV**, in 6 parts (GitHub caps single files at 100 MB). Join them once, as below. 3840 × 2160, 30 fps, H.264 High, Rec. 709, 533 MB. Set the player to repeat. |
 | `4K-per-app/` | One 4K clip per app, 17 s each, each starting with its slot-machine spin. Ready to play as they are. |
 | `JETNET_AI_Booth_Loop_1080p.mp4` | The full loop at 1920 × 1080 for laptops, web and review. Ready to play as it is. |
-| `social-1x1/` | The 1:1 social cut (final spin → one source → Booth 3030 with NBAA-BACE and the booth drawing), no QR codes. 1080 × 1080 for posting, plus a 2160 × 2160 master. |
+| `social-1x1/` | The 1:1 social cut (final spin → one source → Booth 3030 with NBAA-BACE and the booth drawing), no QR codes. 1080 × 1080 for posting plus a 2160 × 2160 master, each with music and sound effects; `_silent` copies have no audio. |
 
 ## Getting the 4K master
 
