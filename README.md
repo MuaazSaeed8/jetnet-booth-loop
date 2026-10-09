@@ -1,39 +1,50 @@
 # JETNET AI · Booth 3030 trade-show loop
 
-The NBAA-BACE 2026 loop for the 65-inch booth display: 2 min 20 s, seamless, silent.
+The NBAA-BACE 2026 loop for the 65-inch booth display.
 
-## What's here
+## The current loop (brief v2)
+
+**`JETNET_AI_Booth_Loop_v2_1080p.mp4`**: 2 min 32 s, seamless, silent. 1920 × 1080, 30 fps, H.264 High, Rec. 709, 99 MB. It is one file, so you can download it and play it as it is. Set the player to repeat.
+
+What changed from the first cut:
+
+- Each app chapter is now a two-question conversation, one per vertical:
+  - Teams: dealers and brokers
+  - WhatsApp: charter and management
+  - Claude: OEMs
+  - Slack on a phone: MRO
+  - ChatGPT: aviation finance
+  - Copilot in Excel: dealers and brokers
+- New scene, 2:06 to 2:18: "What the industry asks JETNET AI", five columns of real questions.
+- Booth 3030 end card moves to 2:18 to 2:32. The QR holds for about 11 seconds.
+- No all-caps, letter-spaced labels anywhere. Kickers, table headers, the "Sample data" tag and the slot-machine sign are in sentence case.
+
+SHA-256: `4ac6d939e5aaa2d711e59e721d27d993d3b18b84e54ae556c42e898f9763be04`
+
+## Also here
 
 | Path | What it is |
 |---|---|
-| `4K-master/` | **The file for the TV**, in 6 parts (GitHub caps single files at 100 MB). Join them once, as below. 3840 × 2160, 30 fps, H.264 High, Rec. 709, 533 MB. Set the player to repeat. |
-| `4K-per-app/` | One 4K clip per app, 17 s each, each starting with its slot-machine spin. Ready to play as they are. |
-| `JETNET_AI_Booth_Loop_1080p.mp4` | The full loop at 1920 × 1080 for laptops, web and review. Ready to play as it is. |
-| `social-1x1/` | The 1:1 social cut (final spin → one source → Booth 3030 with NBAA-BACE and the booth drawing), no QR codes. 1080 × 1080 for posting plus a 2160 × 2160 master, each with music and sound effects; `_silent` copies have no audio. |
+| `social-1x1/` | The 1:1 social cut: final spin, one source, then Booth 3030 with NBAA-BACE and the booth drawing. It has no QR codes. 1080 × 1080 for posting plus a 2160 × 2160 master, each with music and sound effects; the `_silent` copies have no audio. |
+| `v1-earlier-cut/` | The first cut (brief v1, 2 min 20 s). It is kept for reference only; the current loop above replaces it. |
 
-## Getting the 4K master
+The first cut's files:
 
-1. On this page click **Code → Download ZIP** and unzip it. Or download the six `.part` files from `4K-master/` into one folder.
-2. Join the parts.
+- **4K master**, in 6 parts (`4K-master/`)
+- **Per-app 4K clips** (`4K-per-app/`)
+- **1080p version** (`JETNET_AI_Booth_Loop_v1_1080p.mp4`)
 
-   **Mac:** open Terminal, type `cd ` (with a space), drag the `4K-master` folder into the window, press Return, then run:
+To join the 4K parts, open Terminal in `v1-earlier-cut/4K-master` and run:
 
-   ```
-   cat JETNET_AI_Booth_Loop_4K_master.mp4.part* > JETNET_AI_Booth_Loop_4K_master.mp4
-   ```
+```
+cat JETNET_AI_Booth_Loop_4K_master.mp4.part* > JETNET_AI_Booth_Loop_4K_master.mp4
+```
 
-   **Windows:** open Command Prompt in the `4K-master` folder and run:
-
-   ```
-   copy /b JETNET_AI_Booth_Loop_4K_master.mp4.part1+JETNET_AI_Booth_Loop_4K_master.mp4.part2+JETNET_AI_Booth_Loop_4K_master.mp4.part3+JETNET_AI_Booth_Loop_4K_master.mp4.part4+JETNET_AI_Booth_Loop_4K_master.mp4.part5+JETNET_AI_Booth_Loop_4K_master.mp4.part6 JETNET_AI_Booth_Loop_4K_master.mp4
-   ```
-
-3. Optional check: the joined file is 533,431,610 bytes and its SHA-256 is
-   `0f079b5ff67c739c366090aa426ad9c741503586ebf81777550a53bf06981844`
-   (Mac: `shasum -a 256 JETNET_AI_Booth_Loop_4K_master.mp4`).
+The joined file is 533,431,610 bytes, SHA-256 `0f079b5ff67c739c366090aa426ad9c741503586ebf81777550a53bf06981844`.
 
 ## Notes
 
 - Both QR codes open https://www.jetnet.com.
-- All answer cards show fictional sample data and are labelled as such.
+- All answer cards and the Excel sheet show fictional sample data, and they are labelled as such.
 - The opener line "First in aviation" still needs legal sign-off before the show.
+- Confirm the question wall wording before the show, as the brief asks.
