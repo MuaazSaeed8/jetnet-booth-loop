@@ -4,7 +4,7 @@ The NBAA-BACE 2026 loop for the 65-inch booth display.
 
 ## The current loop (brief v2)
 
-**`JETNET_AI_Booth_Loop_v2_1080p.mp4`**: 2 min 50 s, seamless, silent. 1920 × 1080, 30 fps, H.264 High, Rec. 709, 95 MB. It is one file, so you can download it and play it as it is. Set the player to repeat.
+**`JETNET_AI_Booth_Loop_v2_1080p.mp4`**: 2 min 50 s, seamless, silent. 1920 × 1080, 30 fps, H.264 High, Rec. 709, 97 MB. It is one file, so you can download it and play it as it is. Set the player to repeat.
 
 What changed from the first cut:
 
@@ -20,9 +20,9 @@ What changed from the first cut:
 - Chapter labels read app, then audience, with a divider between them (for example "WhatsApp | Charter and management").
 - No all-caps, letter-spaced labels anywhere. Kickers, table headers, the "Sample data" tag and the slot-machine sign are in sentence case.
 - The light on the laptop and phone runs around the inside edge of the screen, not around the device.
-- The footer and the end card read "See JETNET AI live here" with Booth 3030, and "Bring your toughest aviation questions." The Teams chat is the "Dealer Broker Desk". The "One source" scene has no eyebrow.
+- The footer and the end card read "See JETNET AI live here" with Booth 3030, and "Bring your toughest aviation questions." The Teams chat is the "Dealer Broker Desk". The opener and the "One source" scene have no eyebrow.
 
-SHA-256: `1f49316035cd354b3b051c099e2f9106d26c939be01bcacea4cca6d725addeb1`
+SHA-256: `22ec258082b36b4a8d408d9a553ddbf5ddd49526d64eeabdef71bd63ab59789d`
 
 ## Also here
 
@@ -49,5 +49,4 @@ The joined file is 533,431,610 bytes, SHA-256 `0f079b5ff67c739c366090aa426ad9c74
 
 - Both QR codes open https://www.jetnet.com.
 - All answer cards and the Excel sheet show fictional sample data, and they are labelled as such.
-- The opener line "First in aviation" still needs legal sign-off before the show.
 - Confirm the question wall wording before the show, as the brief asks.
