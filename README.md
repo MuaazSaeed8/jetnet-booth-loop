@@ -4,7 +4,7 @@ The NBAA-BACE 2026 loop for the 65-inch booth display.
 
 ## The current loop (brief v2)
 
-**`JETNET_AI_Booth_Loop_v2_1080p.mp4`**: 2 min 32 s, seamless, silent. 1920 × 1080, 30 fps, H.264 High, Rec. 709, 99 MB. It is one file, so you can download it and play it as it is. Set the player to repeat.
+**`JETNET_AI_Booth_Loop_v2_1080p.mp4`**: 2 min 50 s, seamless, silent. 1920 × 1080, 30 fps, H.264 High, Rec. 709, 93 MB. It is one file, so you can download it and play it as it is. Set the player to repeat.
 
 What changed from the first cut:
 
@@ -15,11 +15,13 @@ What changed from the first cut:
   - Slack on a phone: MRO
   - ChatGPT: aviation finance
   - Copilot in Excel: dealers and brokers
-- New scene, 2:06 to 2:18: "What the industry asks JETNET AI", five columns of real questions.
-- Booth 3030 end card moves to 2:18 to 2:32. The QR holds for about 11 seconds.
+- New scene, 2:06 to 2:36: "What the industry asks JETNET AI", five columns of real questions. Once all five have built, the wall holds for 22 seconds while each column is highlighted in turn.
+- Booth 3030 end card moves to 2:36 to 2:50. The QR holds for about 11 seconds.
+- Chapter labels read app, then audience, with a divider between them (for example "WhatsApp | Charter and management").
 - No all-caps, letter-spaced labels anywhere. Kickers, table headers, the "Sample data" tag and the slot-machine sign are in sentence case.
+- The light on the laptop and phone runs around the inside edge of the screen, not around the device.
 
-SHA-256: `4ac6d939e5aaa2d711e59e721d27d993d3b18b84e54ae556c42e898f9763be04`
+SHA-256: `063f7e1b5c90e58d340da9b6ad473c1f772ff8c0d34a4a2c89396c781e1757de`
 
 ## Also here
 
