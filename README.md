@@ -28,7 +28,7 @@ SHA-256: `22ec258082b36b4a8d408d9a553ddbf5ddd49526d64eeabdef71bd63ab59789d`
 
 | Path | What it is |
 |---|---|
-| `social-1x1/` | The 1:1 social cut (28.5 s): final spin, one source, then Booth 3030 with NBAA-BACE and the booth drawing. The footer reads "See JETNET AI live at" with the NBAA-BACE logo, and there are no QR codes. 1080 × 1080 for posting plus a 2160 × 2160 master, each with sound effects only (no music); the `_silent` copies have no audio. |
+| `social-1x1/` | The 1:1 social cut (28.5 s): final spin, one source, then Booth 3030 with NBAA-BACE and the booth drawing. The last slide and the footer read "See JETNET AI live here" with the NBAA-BACE logo, and there are no QR codes. 1080 × 1080 for posting plus a 2160 × 2160 master, each with sound effects only (no music); the `_silent` copies have no audio. |
 | `v1-earlier-cut/` | The first cut (brief v1, 2 min 20 s). It is kept for reference only; the current loop above replaces it. |
 
 The first cut's files:
