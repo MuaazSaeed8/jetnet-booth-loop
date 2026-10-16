@@ -24,6 +24,24 @@ What changed from the first cut:
 
 SHA-256: `30e413fa3a785b324aaeb34eef83ef5e310b88b0e5296020468b7159a1b20fb0`
 
+### 4K version of the current loop
+
+`4K-v2/` holds the same 2 min 50 s loop rendered natively at 3840 × 2160 (30 fps, H.264 High, Rec. 709, 267 MB). GitHub caps single files at 100 MB, so it is stored in three parts. Join them once:
+
+**Mac:** open Terminal, type `cd ` (with a space), drag the `4K-v2` folder into the window, press Return, then run:
+
+```
+cat JETNET_AI_Booth_Loop_v2_4K.mp4.part* > JETNET_AI_Booth_Loop_v2_4K.mp4
+```
+
+**Windows:** open Command Prompt in the `4K-v2` folder and run:
+
+```
+copy /b JETNET_AI_Booth_Loop_v2_4K.mp4.part1+JETNET_AI_Booth_Loop_v2_4K.mp4.part2+JETNET_AI_Booth_Loop_v2_4K.mp4.part3 JETNET_AI_Booth_Loop_v2_4K.mp4
+```
+
+The joined file is 267,286,945 bytes, SHA-256 `7a912de71cb4cec6640d4ee54d492971446721a3bae2d41398082e11cf8c6cf8`.
+
 ## Also here
 
 | Path | What it is |
